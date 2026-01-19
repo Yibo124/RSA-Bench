@@ -1,1 +1,5 @@
 # RSA-Bench
+
+## Abstract
+
+Based on the provided image and its textual content, the following is a single-paragraph English summary without any translation: The academic paper introduces Signal Embedding Energy (SEE) as a novel method to quantify noise interference in Large Audio Language Models (LALMs), addressing the gap in practical robustness assessment. Traditional studies rely on intuitive observations, lacking quantitative analysis. SEE derives structured activation subspaces from the model's internal representations, offering a more accurate measure of noise impact than raw audio features. Experimental results show a 0.98 correlation between SEE and LALM performance, highlighting its effectiveness. Surprisingly, conventional denoising methods are minimally effective and can even degrade performance by increasing SEE, indicating a mismatch between speech-centric denoising goals and LALM sensitivity. Consequently, a SEE-based mitigation strategy is proposed, outperforming existing methods and providing guidance for real-world robustness improvements.
